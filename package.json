@@ -1,0 +1,29 @@
+{
+  "name": "debounce-throttle-promises-bundle",
+  "version": "0.0.2",
+  "description": "Utility functions for debouncing and throttling promises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "debounce",
+    "throttle",
+    "promise",
+    "utility"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elginharvest/debounce-throttle-promises-bundle"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "glob": "^10.3.10"
+  },
+  "devDependencies": {
+    "webpack": "^5.90.3",
+    "babel-loader": "^9.1.3"
+  }
+}
